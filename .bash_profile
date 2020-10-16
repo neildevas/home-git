@@ -7,10 +7,10 @@ export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Hom
 # added by Anaconda2 5.1.0 installer
 export PATH="/Users/neildevas/anaconda2/bin:$PATH"
 
-# Done by me
 alias chrome="open -a 'Google Chrome'"
 alias ngrokserver="ngrok http -subdomain=ptaservice 9000"
 alias code="cd ~/Code"
+alias homegit="cd ~/.home-git"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
